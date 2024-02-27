@@ -3,6 +3,6 @@ Autor: Aleksander Swędrowski
 Metoda HTML+CSS
 Program VSC
 Data ukończenia
-Adres strony file:///D:/szkoła/tsi/strony/egzamin/index.html
+Adres strony https://ojek22.github.io/portfolio/
 deplay gałąź modyfikacyjna
 pliki modyfikacyjne
