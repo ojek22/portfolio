@@ -1,8 +1,7 @@
 # portfolio
-Autor: Aleksander Swędrowski
+Tytuł: portfolio
+Autor: olek8222@gmail.com
 Metoda HTML+CSS
 Program VSC
-Data ukończenia
 Adres strony https://ojek22.github.io/portfolio/
-deplay gałąź modyfikacyjna
-pliki modyfikacyjne
+uruchomienie: kliknięcie linku
